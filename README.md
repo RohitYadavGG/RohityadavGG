@@ -1,4 +1,4 @@
-#<h1 align="center">Hi 👋, I'm Mohsin Ansari</h1>
+#<h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
 <h3 align="center">A passionate Python Developer | Machine learning & Data Science learner</h3>
 
 <img align="right" alt="coding" width="400" height="400" src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif">
