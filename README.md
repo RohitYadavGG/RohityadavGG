@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" height="400" src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif">
 
-<p align="left">  <img src="https://komarev.com/ghpvc/?username=mohsinansari0705&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinansari0705" /> </p>
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=RohityadavGG&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinansari0705" /> </p>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning **Machine learning & Data Science**.
 
