@@ -11,17 +11,17 @@
 
 - 🤔 I’m looking for Open source Contributors to work on some Innovative Ideas.
 
-- 💬 Lets connect and build something Innovative on our community [Devox Network](https://chat.whatsapp.com/L2IV9fQDrSFJgFZGjg8Pbr).
+- 💬 Lets connect and build something Innovative on our community [Devox Network](#link).
 
 - <img src="https://user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif" width="30"> Check out my [Resume](#resume).
 
 - ⚡ Fun fact that **I think I am Coddy and little bit funny👀**.
 <h3 align="left">Find me at:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/rohityadavgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsinansari0705" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/rohityadavgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohityadavgg" height="30" width="40" /></a>
 <!--<a href="https://x.com/mohsinansari070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohsinansari070" height="30" width="40" /></a> 
 <a href="https://www.leetcode.com/mohsinansari0705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohsinansari0705" height="30" width="40" /></a> -->
-<a href="https://auth.geeksforgeeks.org/user/mohsinansari0705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="RohityadavGG" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rohityadavgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="RohityadavGG" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
