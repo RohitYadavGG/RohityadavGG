@@ -7,13 +7,13 @@
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning **Machine learning & Data Science**.
 
-- <img src="https://user-images.githubusercontent.com/74038190/238200840-4b38a8c7-dd8d-4199-9eec-cb4ac20414d6.gif" width="30"> Ask me about Python, AI/ML, DS & NLP...
+- <img src="https://user-images.githubusercontent.com/74038190/238200840-4b38a8c7-dd8d-4199-9eec-cb4ac20414d6.gif" width="30"> Ask me about Python, AI/ML, DSA & Frontend...
 
 - 🤔 I’m looking for Open source Contributors to work on some Innovative Ideas.
 
 - 💬 Lets connect and build something Innovative on our community [Devox Network](#link).
 
-- <img src="https://user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif" width="30"> Check out my [Resume](#resume).
+- <img src="https://user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif" width="30"> Check out my [Resume]([https://github.com/RohitYadavGG/professional-info/blob/main/Resume.docx]).
 
 - ⚡ Fun fact that **I think I am Coddy and little bit funny👀**.
 <h3 align="left">Find me at:</h3>
