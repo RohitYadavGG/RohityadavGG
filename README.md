@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" height="400" src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif">
 
-<p align="left">  <img src="https://komarev.com/ghpvc/?username=RohityadavGG&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinansari0705" /> </p>
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=RohityadavGG&label=Profile%20views&color=0e75b6&style=flat" alt="RohitYadavGG" /> </p>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning **Machine learning & Data Science**.
 
@@ -20,8 +20,8 @@
 <h3 align="left">Find me at:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rohityadavgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohityadavgg" height="30" width="40" /> </a>
-<!--<a href="https://x.com/mohsinansari070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohsinansari070" height="30" width="40" /></a> 
-<a href="https://www.leetcode.com/mohsinansari0705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohsinansari0705" height="30" width="40" /></a> -->
+<!--<a href="https://x.com/RohitYadavGG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RohitYadavGG" height="30" width="40" /></a> 
+<a href="https://www.leetcode.com/RohitYadavGG5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="RohitYadavGG5" height="30" width="40" /></a> -->
 <a href="https://auth.geeksforgeeks.org/user/rohityadavgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="RohityadavGG" height="30" width="40" /></a>
 </p>
 
