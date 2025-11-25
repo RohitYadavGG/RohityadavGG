@@ -35,4 +35,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 </p><br>
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RohityadavGG&show_icons=true&locale=en" alt="RohityadavGG" /></p>
+### 🚀 Quick Stats
+<p align="center">
+<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=RohityadavGG&show_icons=true&line_height=21&theme=react" alt="Rohit's Github Stats" />
+</p>
