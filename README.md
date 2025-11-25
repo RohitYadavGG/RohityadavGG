@@ -36,4 +36,3 @@
 </p><br>
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RohityadavGG&show_icons=true&locale=en" alt="RohityadavGG" /></p>
-<img width="450" align="left" src="https://camo.githubusercontent.com/59a573c69cb461a0e9eea89d9ccfa9d04383d1d1aed0188de577871406085feb/68747470733a2f2f6769746875622d726561646d652d73746174732d646566636f6e32372e76657263656c2e6170702f6170693f757365726e616d653d6665697a632673686f775f69636f6e733d74727565266c696e655f6865696768743d3231267468656d653d7265616374" alt="Rohit's Github Stats" data-canonical-src="https://github-readme-stats-defcon27.vercel.app/api?username=RohityadavGG&amp;show_icons=true&amp;line_height=21&amp;theme=react" style="max-width: 100%;">
